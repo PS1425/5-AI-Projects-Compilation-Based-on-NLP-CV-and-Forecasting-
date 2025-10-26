@@ -1,9 +1,9 @@
 # 5 AI Projects Compilation (Based on NLP CV and Forecasting)
-A curated collection of applied AI and Machine Learning projects. This portfolio showcases practical skills in NLP and Computer Vision, featuring a sentiment analyzer, chatbot, emotion detector, cryptocurrency forecaster, and an ANPR system. Demonstrates end-to-end model development from dataset to deployment-ready solution.
+A curated collection of applied AI and Machine Learning projects. This portfolio showcases practical skills in Natural Language Processing (NLP) and Computer Vision, featuring a sentiment analyzer, chatbot, emotion detector, cryptocurrency forecaster, and an Automatic Number Plate Recognition (ANPR) system. Demonstrates end-to-end model development from dataset to deployment-ready solution.
 
 ## Overview
 
-This repository showcases five complete Machine Learning and Deep Learning projects covering Natural Language Processing (NLP), Time Series Forecasting, and Computer Vision domains.  
+This repository showcases five complete Machine Learning and Deep Learning projects covering NLP, Time Series Forecasting, and Computer Vision domains.  
 Each project demonstrates end-to-end implementation — including data ingestion, preprocessing, feature engineering, model training, evaluation, and performance optimization.
 
 All projects are implemented in Python (Google Colab) using popular libraries such as Scikit-learn, TensorFlow, Keras, NLTK, Pandas, and OpenCV.
